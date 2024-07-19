@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Minecraft';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/assets/fonts/Minecraft.ttf) format('ttf');
+  }
+
+  html {
+    font-family: "Minecraft", system-ui, sans-serif;
+  }
+
+  .village-font {
+    font-size: 20px;
+    -webkit-text-fill-color: red;
+    -webkit-text-stroke-width: 0.7px;
+  }
+}
