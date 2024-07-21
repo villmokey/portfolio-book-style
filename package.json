@@ -27,5 +27,5 @@
     "tailwindcss": "^3.4.6",
     "vite": "^5.3.4"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@1.21.1"
 }
