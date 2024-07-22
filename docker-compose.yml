@@ -1,6 +1,0 @@
-services:
-  web:
-    build: .
-    container_name: portfolio
-    ports:
-      - 3000:80
