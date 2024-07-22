@@ -5,7 +5,6 @@ For those who want to add something "different" to your portofolio
 ## Tech
 - React + Vite
 - Tailwind
-- React Page Flip
 
 ## How to run
 1. run `npm install`, Although I recommend you use `yarn`
