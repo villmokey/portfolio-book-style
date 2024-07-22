@@ -51,7 +51,7 @@ function App() {
           </p>
         </div>
         <div className="bg-[url('assets/images/city.png')] bg-cover lg:bg-center xl:bg-center">
-          <p className='text-center text-[13px] lg:text-[18px] xl:text-[18px] mt-56 lg:mt-96 xl:mt-96 p-10 '>
+          <p className='text-center text-[13px] lg:text-[18px] xl:text-[18px] mt-36 lg:mt-96 xl:mt-96 p-10 '>
             In the bustling village of ReactJS, Villian discovered the magic of creating dynamic and interactive user interfaces. With the help of React's enchanted components, Villian crafted intricate designs that brought web pages to life, casting spells of hooks and wielding the mighty Context API to maintain harmony and efficiency in his creations.
           </p>
         </div>
