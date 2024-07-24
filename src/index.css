@@ -2,22 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @layer base {
-  @font-face {
-    font-family: 'Minecraft';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(/assets/fonts/Minecraft.ttf) format('ttf');
-  }
+  @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
 
   html {
-    font-family: "Minecraft", system-ui, sans-serif;
+    font-family: "Pixelify Sans", sans-serif;
   }
 
-  .village-font {
-    font-size: 20px;
-    -webkit-text-fill-color: red;
-    -webkit-text-stroke-width: 0.7px;
-  }
 }
